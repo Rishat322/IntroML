@@ -8,7 +8,7 @@
 
 ## Выполненная лабораторная работа
 
-[Файл программы](https://github.com/Rishat322/IntroML/blob/main/homework_1/homework2.ipynb)
+[Файл программы](https://github.com/Rishat322/IntroML/blob/main/homework_1/homework1.ipynb)
 
 ## Заключение
 
