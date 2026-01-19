@@ -162,6 +162,5 @@
 
 ---
 
-## Материалы
-- Ноутбук с выполненными заданиями: `hw07_trees_rf.ipynb`
-- Датасеты: `students.csv`, `agaricus-lepiota.data`, `diabetes.csv`
+## Материалы по лабе
+[Файл с созданными программами](https://github.com/Rishat322/IntroML/blob/main/homework_4/Lr3.ipynb)
