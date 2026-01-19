@@ -5,3 +5,5 @@
 ## Выполненные работы
 
 [Лабораторная работа №1](https://github.com/Rishat322/IntroML/tree/main/homework_1)
+[Лабораторная работа №2](https://github.com/Rishat322/IntroML/tree/main/homework_1)
+[Лабораторная работа №4](https://github.com/Rishat322/IntroML/tree/main/homework_1)
